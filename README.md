@@ -9,5 +9,7 @@ testkun08080と申します。とりあえず世界中巻き込んで遊びた�
 My name is testkun08080. I enjoy playing around with the world, having fun, and occasionally contributing to meaningful projects @@
 
 ### Here is my page and github profile
-github.com/testkun08080
-testkun08080.github.io
+ [Github Profile](https://github.com/testkun08080/)
+ 
+ [Github Profile Page](https://testkun08080.github.io/)
+
